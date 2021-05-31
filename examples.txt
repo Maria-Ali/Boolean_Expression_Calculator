@@ -1,0 +1,8 @@
+!(A.!B+!A.B)(A+B)=A.B
+[A.!B(C+B.D)+!A.!B].C = (A.!B.C + !A.!B).C
+A.B + B.C.(B+C) = B.(A+C)
+A XOR B NAND A
+(AB+C) NOR (A+B+C)
+A!B + !AB = A XOR B
+!A!B + AB = A XNOR B
+A(A + B) + (B + AA)(A + B) = A + B
